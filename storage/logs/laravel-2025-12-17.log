@@ -1,0 +1,2657 @@
+[2025-12-17 13:24:12] production.DEBUG: From: Go Trip <contact@gotrip.test>
+To: contact@gotrip.test
+Subject: [Liberty Expeditions] New booking has been made
+MIME-Version: 1.0
+Date: Wed, 17 Dec 2025 13:24:12 +0300
+Message-ID: <2aea811312d0f95603c5ead68812fdbe@gotrip.test>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #f88840;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Liberty Expeditions</h1>
+        </div>
+    </div>
+</div>
+
+            
+    <div class="b-container">
+        <div class="b-panel">
+                                <h3 class="email-headline"><strong>Hello Administrator</strong></h3>
+                    <p>New booking has been made</p>
+                
+            <div class="b-panel-title">Tour information</div>
+<div class="b-table-wrap">
+    <table class="b-table" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="label">Booking Number</td>
+            <td class="val">#24</td>
+        </tr>
+        <tr>
+            <td class="label">Booking Status</td>
+            <td class="val">Processing</td>
+        </tr>
+                    <tr>
+                <td class="label">Payment method</td>
+                <td class="val">Offline Payment</td>
+            </tr>
+                        <tr>
+            <td class="label">Tour name</td>
+            <td class="val">
+                <a href="https://libertyexpeditions.com/tour/budget-digital-detox-forest-immersion">Budget Group Digital Detox &amp; Forest Immersion</a>
+            </td>
+
+        </tr>
+        <tr>
+                    </tr>
+                    <tr>
+                <td class="label">Start date</td>
+                <td class="val">12/24/2025</td>
+            </tr>
+
+            <tr>
+                <td class="label">Duration:</td>
+                <td class="val">
+                    1 weeks
+                </td>
+            </tr>
+        
+        
+                    <tr>
+                <td class="label">Guests:</td>
+                <td class="val">
+                    <strong>1</strong>
+                </td>
+            </tr>
+                <tr>
+            <td class="label">Pricing</td>
+            <td class="val no-r-padding">
+                <table class="pricing-list" width="100%">
+                    
+                                            <tr>
+                            <td class="label">Guests: 1 $2,800</td>
+                            <td class="val no-r-padding">
+                                <strong>$2,800</strong>
+                            </td>
+                        </tr>
+                    
+                    
+                    
+                                        
+                                                                            </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Total</td>
+            <td class="val fsz21"><strong style="color: #FA5636">$2,800</strong></td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Paid</td>
+            <td class="val fsz21"><strong style="color: #FA5636">$0</strong></td>
+        </tr>
+                    <tr>
+                <td class="label fsz21">Remain</td>
+                <td class="val fsz21"><strong style="color: #FA5636">$2,800</strong></td>
+            </tr>
+            </table>
+</div>
+<div class="text-center mt20">
+    <a href="https://libertyexpeditions.com/user/booking-history" target="_blank" class="btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class="b-panel">
+    <div class="b-panel-title">Customer information</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+            <div class="info-first-name b-tr">
+                <div class="label">First name</div>
+                <div class="val">peter</div>
+            </div>
+            <div class="info-last-name b-tr" style="clear: both">
+                <div class="label">Last name</div>
+                <div class="val">smith</div>
+            </div>
+            <div class="info-email b-tr">
+                <div class="label">Email</div>
+                <div class="val">trevormeghan@gmail.com</div>
+            </div>
+            <div class="info-phone b-tr">
+                <div class="label">Phone</div>
+                <div class="val">+254722139450</div>
+            </div>
+            <div class="info-address b-tr">
+                <div class="label">Address line 1</div>
+                <div class="val">64</div>
+            </div>
+            <div class="info-address2 b-tr">
+                <div class="label">Address line 2</div>
+                <div class="val">455</div>
+            </div>
+            <div class="info-city b-tr">
+                <div class="label">City</div>
+                <div class="val">Houston</div>
+            </div>
+            <div class="info-state b-tr">
+                <div class="label">State/Province/Region</div>
+                <div class="val">Central</div>
+            </div>
+            <div class="info-zip-code b-tr">
+                <div class="label">ZIP code/Postal code</div>
+                <div class="val">010300</div>
+            </div>
+            <div class="info-country b-tr">
+                <div class="label">Country</div>
+                <div class="val">United States</div>
+            </div>
+            <div class="info-notes b-tr">
+                <div class="label">Special Requirements</div>
+                <div class="val">Lactose intollerance</div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-12-17 13:24:12] production.DEBUG: From: Go Trip <contact@gotrip.test>
+To: "admin@libertyexpeditions.com" <admin@libertyexpeditions.com>
+Subject: [Liberty Expeditions] Your service got new booking
+MIME-Version: 1.0
+Date: Wed, 17 Dec 2025 13:24:12 +0300
+Message-ID: <1dbba33098062cb95a417c69483081ac@gotrip.test>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #f88840;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Liberty Expeditions</h1>
+        </div>
+    </div>
+</div>
+
+            
+    <div class="b-container">
+        <div class="b-panel">
+                                <h3 class="email-headline"><strong>Hello admin@libertyexpeditions.com</strong></h3>
+                    <p>Your service has new booking</p>
+                
+            <div class="b-panel-title">Tour information</div>
+<div class="b-table-wrap">
+    <table class="b-table" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="label">Booking Number</td>
+            <td class="val">#24</td>
+        </tr>
+        <tr>
+            <td class="label">Booking Status</td>
+            <td class="val">Processing</td>
+        </tr>
+                    <tr>
+                <td class="label">Payment method</td>
+                <td class="val">Offline Payment</td>
+            </tr>
+                        <tr>
+            <td class="label">Tour name</td>
+            <td class="val">
+                <a href="https://libertyexpeditions.com/tour/budget-digital-detox-forest-immersion">Budget Group Digital Detox &amp; Forest Immersion</a>
+            </td>
+
+        </tr>
+        <tr>
+                    </tr>
+                    <tr>
+                <td class="label">Start date</td>
+                <td class="val">12/24/2025</td>
+            </tr>
+
+            <tr>
+                <td class="label">Duration:</td>
+                <td class="val">
+                    1 weeks
+                </td>
+            </tr>
+        
+        
+                    <tr>
+                <td class="label">Guests:</td>
+                <td class="val">
+                    <strong>1</strong>
+                </td>
+            </tr>
+                <tr>
+            <td class="label">Pricing</td>
+            <td class="val no-r-padding">
+                <table class="pricing-list" width="100%">
+                    
+                                            <tr>
+                            <td class="label">Guests: 1 $2,800</td>
+                            <td class="val no-r-padding">
+                                <strong>$2,800</strong>
+                            </td>
+                        </tr>
+                    
+                    
+                    
+                                        
+                                                                            </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Total</td>
+            <td class="val fsz21"><strong style="color: #FA5636">$2,800</strong></td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Paid</td>
+            <td class="val fsz21"><strong style="color: #FA5636">$0</strong></td>
+        </tr>
+                    <tr>
+                <td class="label fsz21">Remain</td>
+                <td class="val fsz21"><strong style="color: #FA5636">$2,800</strong></td>
+            </tr>
+            </table>
+</div>
+<div class="text-center mt20">
+    <a href="https://libertyexpeditions.com/user/booking-history" target="_blank" class="btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class="b-panel">
+    <div class="b-panel-title">Customer information</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+            <div class="info-first-name b-tr">
+                <div class="label">First name</div>
+                <div class="val">peter</div>
+            </div>
+            <div class="info-last-name b-tr" style="clear: both">
+                <div class="label">Last name</div>
+                <div class="val">smith</div>
+            </div>
+            <div class="info-email b-tr">
+                <div class="label">Email</div>
+                <div class="val">trevormeghan@gmail.com</div>
+            </div>
+            <div class="info-phone b-tr">
+                <div class="label">Phone</div>
+                <div class="val">+254722139450</div>
+            </div>
+            <div class="info-address b-tr">
+                <div class="label">Address line 1</div>
+                <div class="val">64</div>
+            </div>
+            <div class="info-address2 b-tr">
+                <div class="label">Address line 2</div>
+                <div class="val">455</div>
+            </div>
+            <div class="info-city b-tr">
+                <div class="label">City</div>
+                <div class="val">Houston</div>
+            </div>
+            <div class="info-state b-tr">
+                <div class="label">State/Province/Region</div>
+                <div class="val">Central</div>
+            </div>
+            <div class="info-zip-code b-tr">
+                <div class="label">ZIP code/Postal code</div>
+                <div class="val">010300</div>
+            </div>
+            <div class="info-country b-tr">
+                <div class="label">Country</div>
+                <div class="val">United States</div>
+            </div>
+            <div class="info-notes b-tr">
+                <div class="label">Special Requirements</div>
+                <div class="val">Lactose intollerance</div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-12-17 13:24:12] production.DEBUG: From: Go Trip <contact@gotrip.test>
+To: trevormeghan@gmail.com
+Subject: Thank you for booking with us
+MIME-Version: 1.0
+Date: Wed, 17 Dec 2025 13:24:12 +0300
+Message-ID: <a0dac4c0349c6ace79fd763da58d539b@gotrip.test>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #f88840;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Liberty Expeditions</h1>
+        </div>
+    </div>
+</div>
+
+            
+    <div class="b-container">
+        <div class="b-panel">
+                                <h3 class="email-headline"><strong>Hello peter</strong></h3>
+                    <p>Thank you for booking with us. Here are your booking information:</p>
+                
+            <div class="b-panel-title">Tour information</div>
+<div class="b-table-wrap">
+    <table class="b-table" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="label">Booking Number</td>
+            <td class="val">#24</td>
+        </tr>
+        <tr>
+            <td class="label">Booking Status</td>
+            <td class="val">Processing</td>
+        </tr>
+                    <tr>
+                <td class="label">Payment method</td>
+                <td class="val">Offline Payment</td>
+            </tr>
+                        <tr>
+            <td class="label">Tour name</td>
+            <td class="val">
+                <a href="https://libertyexpeditions.com/tour/budget-digital-detox-forest-immersion">Budget Group Digital Detox &amp; Forest Immersion</a>
+            </td>
+
+        </tr>
+        <tr>
+                    </tr>
+                    <tr>
+                <td class="label">Start date</td>
+                <td class="val">12/24/2025</td>
+            </tr>
+
+            <tr>
+                <td class="label">Duration:</td>
+                <td class="val">
+                    1 weeks
+                </td>
+            </tr>
+        
+        
+                    <tr>
+                <td class="label">Guests:</td>
+                <td class="val">
+                    <strong>1</strong>
+                </td>
+            </tr>
+                <tr>
+            <td class="label">Pricing</td>
+            <td class="val no-r-padding">
+                <table class="pricing-list" width="100%">
+                    
+                                            <tr>
+                            <td class="label">Guests: 1 $2,800</td>
+                            <td class="val no-r-padding">
+                                <strong>$2,800</strong>
+                            </td>
+                        </tr>
+                    
+                    
+                    
+                                        
+                                                                            </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Total</td>
+            <td class="val fsz21"><strong style="color: #FA5636">$2,800</strong></td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Paid</td>
+            <td class="val fsz21"><strong style="color: #FA5636">$0</strong></td>
+        </tr>
+                    <tr>
+                <td class="label fsz21">Remain</td>
+                <td class="val fsz21"><strong style="color: #FA5636">$2,800</strong></td>
+            </tr>
+            </table>
+</div>
+<div class="text-center mt20">
+    <a href="https://libertyexpeditions.com/user/booking-history" target="_blank" class="btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class="b-panel">
+    <div class="b-panel-title">Customer information</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+            <div class="info-first-name b-tr">
+                <div class="label">First name</div>
+                <div class="val">peter</div>
+            </div>
+            <div class="info-last-name b-tr" style="clear: both">
+                <div class="label">Last name</div>
+                <div class="val">smith</div>
+            </div>
+            <div class="info-email b-tr">
+                <div class="label">Email</div>
+                <div class="val">trevormeghan@gmail.com</div>
+            </div>
+            <div class="info-phone b-tr">
+                <div class="label">Phone</div>
+                <div class="val">+254722139450</div>
+            </div>
+            <div class="info-address b-tr">
+                <div class="label">Address line 1</div>
+                <div class="val">64</div>
+            </div>
+            <div class="info-address2 b-tr">
+                <div class="label">Address line 2</div>
+                <div class="val">455</div>
+            </div>
+            <div class="info-city b-tr">
+                <div class="label">City</div>
+                <div class="val">Houston</div>
+            </div>
+            <div class="info-state b-tr">
+                <div class="label">State/Province/Region</div>
+                <div class="val">Central</div>
+            </div>
+            <div class="info-zip-code b-tr">
+                <div class="label">ZIP code/Postal code</div>
+                <div class="val">010300</div>
+            </div>
+            <div class="info-country b-tr">
+                <div class="label">Country</div>
+                <div class="val">United States</div>
+            </div>
+            <div class="info-notes b-tr">
+                <div class="label">Special Requirements</div>
+                <div class="val">Lactose intollerance</div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-12-17 13:24:47] production.DEBUG: From: Go Trip <contact@gotrip.test>
+To: ednahgatwiri793@gmail.com
+Subject: EDNAH MURITHI has registered.
+MIME-Version: 1.0
+Date: Wed, 17 Dec 2025 13:24:47 +0300
+Message-ID: <ee9b8062d615ad292b9590f92fa82820@gotrip.test>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #f88840;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Liberty Expeditions</h1>
+        </div>
+    </div>
+</div>
+
+                <div class="b-container">
+        <div class="b-panel">
+            <h1 style="text-align: center;">Welcome!</h1>
+<h3>Hello EDNAH MURITHI</h3>
+<p>Thank you for signing up with Liberty Expeditions! We hope you enjoy your time with us.</p>
+<p>Regards,</p>
+<p>Liberty Expeditions</p>
+        </div>
+    </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-12-17 13:24:47] production.DEBUG: From: Go Trip <contact@gotrip.test>
+To: contact@gotrip.test
+Subject: EDNAH MURITHI has registered.
+MIME-Version: 1.0
+Date: Wed, 17 Dec 2025 13:24:47 +0300
+Message-ID: <fe5484cb45d0da559f54bc5bd2e49e77@gotrip.test>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #f88840;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Liberty Expeditions</h1>
+        </div>
+    </div>
+</div>
+
+                <div class="b-container">
+        <div class="b-panel">
+            <h3>Hello Administrator</h3>
+<p>We have new registration</p>
+<p>Full name: EDNAH MURITHI</p>
+<p>Email: ednahgatwiri793@gmail.com</p>
+<p>Regards,</p>
+<p>Liberty Expeditions</p>
+        </div>
+    </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-12-17 13:24:47] production.DEBUG: From: Go Trip <contact@gotrip.test>
+To: contact@gotrip.test
+Subject: [Liberty Expeditions] New booking has been made
+MIME-Version: 1.0
+Date: Wed, 17 Dec 2025 13:24:47 +0300
+Message-ID: <30738843679f17feb5719197a52a774f@gotrip.test>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #f88840;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Liberty Expeditions</h1>
+        </div>
+    </div>
+</div>
+
+            
+    <div class="b-container">
+        <div class="b-panel">
+                                <h3 class="email-headline"><strong>Hello Administrator</strong></h3>
+                    <p>New booking has been made</p>
+                
+            <div class="b-panel-title">Tour information</div>
+<div class="b-table-wrap">
+    <table class="b-table" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="label">Booking Number</td>
+            <td class="val">#26</td>
+        </tr>
+        <tr>
+            <td class="label">Booking Status</td>
+            <td class="val">Processing</td>
+        </tr>
+                    <tr>
+                <td class="label">Payment method</td>
+                <td class="val">Offline Payment</td>
+            </tr>
+                        <tr>
+            <td class="label">Tour name</td>
+            <td class="val">
+                <a href="https://libertyexpeditions.com/tour/budget-digital-detox-forest-immersion">Budget Group Digital Detox &amp; Forest Immersion</a>
+            </td>
+
+        </tr>
+        <tr>
+                    </tr>
+                    <tr>
+                <td class="label">Start date</td>
+                <td class="val">12/23/2025</td>
+            </tr>
+
+            <tr>
+                <td class="label">Duration:</td>
+                <td class="val">
+                    1 weeks
+                </td>
+            </tr>
+        
+        
+                    <tr>
+                <td class="label">Guests:</td>
+                <td class="val">
+                    <strong>1</strong>
+                </td>
+            </tr>
+                <tr>
+            <td class="label">Pricing</td>
+            <td class="val no-r-padding">
+                <table class="pricing-list" width="100%">
+                    
+                                            <tr>
+                            <td class="label">Guests: 1 $2,800</td>
+                            <td class="val no-r-padding">
+                                <strong>$2,800</strong>
+                            </td>
+                        </tr>
+                    
+                    
+                    
+                                        
+                                                                            </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Total</td>
+            <td class="val fsz21"><strong style="color: #FA5636">$2,800</strong></td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Paid</td>
+            <td class="val fsz21"><strong style="color: #FA5636">$0</strong></td>
+        </tr>
+                    <tr>
+                <td class="label fsz21">Remain</td>
+                <td class="val fsz21"><strong style="color: #FA5636">$2,800</strong></td>
+            </tr>
+            </table>
+</div>
+<div class="text-center mt20">
+    <a href="https://libertyexpeditions.com/user/booking-history" target="_blank" class="btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class="b-panel">
+    <div class="b-panel-title">Customer information</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+            <div class="info-first-name b-tr">
+                <div class="label">First name</div>
+                <div class="val">EDNAH</div>
+            </div>
+            <div class="info-last-name b-tr" style="clear: both">
+                <div class="label">Last name</div>
+                <div class="val">MURITHI</div>
+            </div>
+            <div class="info-email b-tr">
+                <div class="label">Email</div>
+                <div class="val">ednahgatwiri793@gmail.com</div>
+            </div>
+            <div class="info-phone b-tr">
+                <div class="label">Phone</div>
+                <div class="val">0768930280</div>
+            </div>
+            <div class="info-address b-tr">
+                <div class="label">Address line 1</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-address2 b-tr">
+                <div class="label">Address line 2</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-city b-tr">
+                <div class="label">City</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-state b-tr">
+                <div class="label">State/Province/Region</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-zip-code b-tr">
+                <div class="label">ZIP code/Postal code</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-country b-tr">
+                <div class="label">Country</div>
+                <div class="val">Kenya</div>
+            </div>
+            <div class="info-notes b-tr">
+                <div class="label">Special Requirements</div>
+                <div class="val"></div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-12-17 13:24:47] production.DEBUG: From: Go Trip <contact@gotrip.test>
+To: "admin@libertyexpeditions.com" <admin@libertyexpeditions.com>
+Subject: [Liberty Expeditions] Your service got new booking
+MIME-Version: 1.0
+Date: Wed, 17 Dec 2025 13:24:47 +0300
+Message-ID: <ae280c990e5eec8389290001fe8774c3@gotrip.test>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #f88840;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Liberty Expeditions</h1>
+        </div>
+    </div>
+</div>
+
+            
+    <div class="b-container">
+        <div class="b-panel">
+                                <h3 class="email-headline"><strong>Hello admin@libertyexpeditions.com</strong></h3>
+                    <p>Your service has new booking</p>
+                
+            <div class="b-panel-title">Tour information</div>
+<div class="b-table-wrap">
+    <table class="b-table" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="label">Booking Number</td>
+            <td class="val">#26</td>
+        </tr>
+        <tr>
+            <td class="label">Booking Status</td>
+            <td class="val">Processing</td>
+        </tr>
+                    <tr>
+                <td class="label">Payment method</td>
+                <td class="val">Offline Payment</td>
+            </tr>
+                        <tr>
+            <td class="label">Tour name</td>
+            <td class="val">
+                <a href="https://libertyexpeditions.com/tour/budget-digital-detox-forest-immersion">Budget Group Digital Detox &amp; Forest Immersion</a>
+            </td>
+
+        </tr>
+        <tr>
+                    </tr>
+                    <tr>
+                <td class="label">Start date</td>
+                <td class="val">12/23/2025</td>
+            </tr>
+
+            <tr>
+                <td class="label">Duration:</td>
+                <td class="val">
+                    1 weeks
+                </td>
+            </tr>
+        
+        
+                    <tr>
+                <td class="label">Guests:</td>
+                <td class="val">
+                    <strong>1</strong>
+                </td>
+            </tr>
+                <tr>
+            <td class="label">Pricing</td>
+            <td class="val no-r-padding">
+                <table class="pricing-list" width="100%">
+                    
+                                            <tr>
+                            <td class="label">Guests: 1 $2,800</td>
+                            <td class="val no-r-padding">
+                                <strong>$2,800</strong>
+                            </td>
+                        </tr>
+                    
+                    
+                    
+                                        
+                                                                            </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Total</td>
+            <td class="val fsz21"><strong style="color: #FA5636">$2,800</strong></td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Paid</td>
+            <td class="val fsz21"><strong style="color: #FA5636">$0</strong></td>
+        </tr>
+                    <tr>
+                <td class="label fsz21">Remain</td>
+                <td class="val fsz21"><strong style="color: #FA5636">$2,800</strong></td>
+            </tr>
+            </table>
+</div>
+<div class="text-center mt20">
+    <a href="https://libertyexpeditions.com/user/booking-history" target="_blank" class="btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class="b-panel">
+    <div class="b-panel-title">Customer information</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+            <div class="info-first-name b-tr">
+                <div class="label">First name</div>
+                <div class="val">EDNAH</div>
+            </div>
+            <div class="info-last-name b-tr" style="clear: both">
+                <div class="label">Last name</div>
+                <div class="val">MURITHI</div>
+            </div>
+            <div class="info-email b-tr">
+                <div class="label">Email</div>
+                <div class="val">ednahgatwiri793@gmail.com</div>
+            </div>
+            <div class="info-phone b-tr">
+                <div class="label">Phone</div>
+                <div class="val">0768930280</div>
+            </div>
+            <div class="info-address b-tr">
+                <div class="label">Address line 1</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-address2 b-tr">
+                <div class="label">Address line 2</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-city b-tr">
+                <div class="label">City</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-state b-tr">
+                <div class="label">State/Province/Region</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-zip-code b-tr">
+                <div class="label">ZIP code/Postal code</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-country b-tr">
+                <div class="label">Country</div>
+                <div class="val">Kenya</div>
+            </div>
+            <div class="info-notes b-tr">
+                <div class="label">Special Requirements</div>
+                <div class="val"></div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-12-17 13:24:47] production.DEBUG: From: Go Trip <contact@gotrip.test>
+To: ednahgatwiri793@gmail.com
+Subject: Thank you for booking with us
+MIME-Version: 1.0
+Date: Wed, 17 Dec 2025 13:24:47 +0300
+Message-ID: <97c4313d6a8dff7ffac7b94eacab9c2a@gotrip.test>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #f88840;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Liberty Expeditions</h1>
+        </div>
+    </div>
+</div>
+
+            
+    <div class="b-container">
+        <div class="b-panel">
+                                <h3 class="email-headline"><strong>Hello EDNAH</strong></h3>
+                    <p>Thank you for booking with us. Here are your booking information:</p>
+                
+            <div class="b-panel-title">Tour information</div>
+<div class="b-table-wrap">
+    <table class="b-table" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="label">Booking Number</td>
+            <td class="val">#26</td>
+        </tr>
+        <tr>
+            <td class="label">Booking Status</td>
+            <td class="val">Processing</td>
+        </tr>
+                    <tr>
+                <td class="label">Payment method</td>
+                <td class="val">Offline Payment</td>
+            </tr>
+                        <tr>
+            <td class="label">Tour name</td>
+            <td class="val">
+                <a href="https://libertyexpeditions.com/tour/budget-digital-detox-forest-immersion">Budget Group Digital Detox &amp; Forest Immersion</a>
+            </td>
+
+        </tr>
+        <tr>
+                    </tr>
+                    <tr>
+                <td class="label">Start date</td>
+                <td class="val">12/23/2025</td>
+            </tr>
+
+            <tr>
+                <td class="label">Duration:</td>
+                <td class="val">
+                    1 weeks
+                </td>
+            </tr>
+        
+        
+                    <tr>
+                <td class="label">Guests:</td>
+                <td class="val">
+                    <strong>1</strong>
+                </td>
+            </tr>
+                <tr>
+            <td class="label">Pricing</td>
+            <td class="val no-r-padding">
+                <table class="pricing-list" width="100%">
+                    
+                                            <tr>
+                            <td class="label">Guests: 1 $2,800</td>
+                            <td class="val no-r-padding">
+                                <strong>$2,800</strong>
+                            </td>
+                        </tr>
+                    
+                    
+                    
+                                        
+                                                                            </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Total</td>
+            <td class="val fsz21"><strong style="color: #FA5636">$2,800</strong></td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Paid</td>
+            <td class="val fsz21"><strong style="color: #FA5636">$0</strong></td>
+        </tr>
+                    <tr>
+                <td class="label fsz21">Remain</td>
+                <td class="val fsz21"><strong style="color: #FA5636">$2,800</strong></td>
+            </tr>
+            </table>
+</div>
+<div class="text-center mt20">
+    <a href="https://libertyexpeditions.com/user/booking-history" target="_blank" class="btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class="b-panel">
+    <div class="b-panel-title">Customer information</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+            <div class="info-first-name b-tr">
+                <div class="label">First name</div>
+                <div class="val">EDNAH</div>
+            </div>
+            <div class="info-last-name b-tr" style="clear: both">
+                <div class="label">Last name</div>
+                <div class="val">MURITHI</div>
+            </div>
+            <div class="info-email b-tr">
+                <div class="label">Email</div>
+                <div class="val">ednahgatwiri793@gmail.com</div>
+            </div>
+            <div class="info-phone b-tr">
+                <div class="label">Phone</div>
+                <div class="val">0768930280</div>
+            </div>
+            <div class="info-address b-tr">
+                <div class="label">Address line 1</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-address2 b-tr">
+                <div class="label">Address line 2</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-city b-tr">
+                <div class="label">City</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-state b-tr">
+                <div class="label">State/Province/Region</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-zip-code b-tr">
+                <div class="label">ZIP code/Postal code</div>
+                <div class="val"></div>
+            </div>
+            <div class="info-country b-tr">
+                <div class="label">Country</div>
+                <div class="val">Kenya</div>
+            </div>
+            <div class="info-notes b-tr">
+                <div class="label">Special Requirements</div>
+                <div class="val"></div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  

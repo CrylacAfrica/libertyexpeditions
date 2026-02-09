@@ -1,0 +1,250 @@
+[2026-02-05 11:00:19] production.DEBUG: From: Liberty Expeditions <info@libertyexpeditions.com>
+To: lingheng.qin@gmail.com
+Subject: You got reply from admin@libertyexpeditions.com 
+MIME-Version: 1.0
+Date: Thu, 05 Feb 2026 11:00:19 +0300
+Message-ID: <db36b95530675d86dd17b78b4b5df6d2@libertyexpeditions.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #fc5c02;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Liberty Expeditions</h1>
+        </div>
+    </div>
+</div>
+
+                <div class="b-container">
+        <div class="b-panel">
+            <h3 class="email-headline"><strong>Hello Victor</strong></h3>
+            <p>You got reply from vendor. </p>
+                                        <p><strong>Service:</strong> <a href="https://libertyexpeditions.com/tour/2-days-bwindi-private-budget-gorilla-trek-from-entebbe-in-uganda">Join a private 2‑day budget gorilla trek in Bwindi from Entebbe—crafted for your close‑up encounter with Uganda’s mountain gorillas.</a></p>
+                <p><strong>Your note:</strong> Hi there,
+
+I am traveling with a friend around East Africa this January, and we were interested in gorilla trekking in Uganda sometime between 01/04 to 01/10. What would be the quote for the 2 day tour? Does this include the entry fee for Bwindi, and what is the entry fee right now?
+
+Best,
+Victor</p>
+                        <p>Here is the message from vendor:</p>
+            <p>Subject: Apologies &amp; Future Gift for Your Gorilla Trekking Inquiry
+Dear Victor,
+Thank you so much for reaching out and for considering us for your gorilla trekking adventure in Uganda. We sincerely apologize that we were unable to actualize your trip during your requested dates due to an overwhelming number of bookings. We truly regret missing the opportunity to host you and your friend.
+To ensure this doesn’t happen again, we’ve expanded our team and strengthened our operations so we can better accommodate travelers like you in the future. Your interest means a lot to us, and we’d love to welcome you on your next East African journey.
+As a gesture of appreciation, the next time you choose to travel with us, we’ll have a special gift hamper waiting for you.
+We hope to plan something memorable for you soon, and we’ll be delighted to provide updated quotes and details whenever you’re ready to book again.
+Warm regards,
+John 
+Liberty Expeditions Team</p>
+        </div>
+    </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
